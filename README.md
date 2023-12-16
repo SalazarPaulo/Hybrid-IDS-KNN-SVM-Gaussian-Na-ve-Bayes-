@@ -1,0 +1,7 @@
+This presents an existing method for identifying DDoS attacks. DDoS attacks, a subset of DoS attacks, involve multiple interconnected online devices forming a botnet. The purpose is to inundate a target website with fraudulent traffic, rendering it inaccessible.
+
+Unlike other cyber threats that breach security perimeters, DDoS attacks focus on rendering websites and servers unavailable to legitimate users. They can also serve as a diversion for other malicious activities, potentially compromising security appliances and breaching the target's security perimeter.
+
+Maintaining cloud service availability is a significant concern for cloud service providers (CSPs) hosting various IT services on the internet. The internet's vulnerability, the decentralized nature of cloud computing, security issues associated with different cloud service models, and the core attributes of the cloud collectively contribute to its susceptibility to security threats, particularly DDoS attacks. These attacks pose a considerable challenge due to their distributed nature, leading to disruptions in cloud services.
+
+Despite numerous intrusion detection solutions proposed by various research groups and the adoption of different detection mechanisms by CSPs, claiming secure products, there is no foolproof solution to prevent DDoS attacks. The diverse manifestations of DDoS attacks in different scenarios make detection a complex task.
